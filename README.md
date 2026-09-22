@@ -1,2 +1,0 @@
-# css-walk
-my walk
